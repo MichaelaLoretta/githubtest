@@ -1,9 +1,10 @@
+
 ## HEJ
 I added a line!
 bajskorv
 hej hej hej
 
-commansds:
+commands:
 
 ls -la
 
@@ -18,4 +19,8 @@ git status
 git stash
 
 git stash pop 
+
+git checkout -b BRANCHNAME
+
+
 
